@@ -29,6 +29,6 @@ C언어를 제대로 알기 위해서는 운영체제에 대해서 알아야 한
 
 ___
 
-# 참조
+## 참조
 
-[열혈강의 최호성의 C 프로그래밍](https://cafe.naver.com/windev/7880)
+- [열혈강의 최호성의 C 프로그래밍](https://cafe.naver.com/windev/7880)
