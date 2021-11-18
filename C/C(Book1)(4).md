@@ -63,9 +63,9 @@ Space(여백), Tab, New Line(개행 문자)
 
 ### 실수 자료형
 
-float       | 32비트        | 유효 자릿수 6
-double      | 64비트        | 유효 자릿수 15
-longdouble  | 64비트 이상   | double 이상
+float       | 32비트        | 유효 자릿수 6   
+double      | 64비트        | 유효 자릿수 15   
+longdouble  | 64비트 이상   | double 이상   
 
 ## 상수와 자료형
 
